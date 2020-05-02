@@ -1,3 +1,12 @@
 # signature-said-amzal
-
-#This code is  defined like an email signature there can be used ,as a digital signature when we profesionaly send message
+#
+#-------------------------
+#signature-said-amzal
+#-------------------------
+#
+#This HTML code is Used in my personnel Email signature
+#
+#You can find all my personnel informations 
+#
+#To see how does it look you can see https://signature-said-amzal.firebaseapp.com/
+#
